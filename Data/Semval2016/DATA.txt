@@ -1,0 +1,4 @@
+filter_threshold:   5   10  15  20  25
+#of users:  138615  58880   34879   24315   18336
+#of average friends per user:   733 545 442 376 328
+#of no_friends users:   10  17  42  46  53
